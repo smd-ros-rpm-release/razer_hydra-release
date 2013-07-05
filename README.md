@@ -1,3 +1,22 @@
+## razer_hydra - 0.0.5-0
+
+User `aleeper@ael-w530` released the packages in the `razer_hydra` repository by running `/usr/bin/bloom-release razer_hydra --track groovy --rosdistro groovy` on `Fri, 05 Jul 2013 03:40:03 -0000`
+
+The `razer_hydra` package was released.
+
+Version of package(s) in repository `razer_hydra`:
+- rosdistro version: `0.0.3-1`
+- old version: `0.0.3-1`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.4.2`
+- catkin_pkg version: `0.1.18`
+- rosdep version: `0.10.20`
+- rosdistro version: `0.2.11`
+- vcstools version: `0.1.31`
+
+
 ## razer_hydra - 0.0.3-1
 
 User `aleeper@ael-w530` released the packages in the `razer_hydra` repository by running `/usr/bin/bloom-release razer_hydra --track groovy --rosdistro groovy` on `Wed, 03 Jul 2013 03:18:31 -0000`
