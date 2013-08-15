@@ -28,7 +28,7 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
-    devel_branch: hydro-devel
+    devel_branch: groovy-devel
     last_version: 0.0.6
     name: razer_hydra
     patches: null
@@ -37,5 +37,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/dgossow/razer_hydra.git
+    vcs_uri: https://github.com/ros-drivers/razer_hydra.git
     version: :{auto}
