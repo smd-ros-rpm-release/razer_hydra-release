@@ -1,3 +1,22 @@
+## razer_hydra - 0.0.11-0
+
+User `dgossow@lex` released the packages in the `razer_hydra` repository by running `/usr/bin/bloom-release --track groovy --ros-distro groovy razer_hydra` on `Wed, 21 Aug 2013 22:52:00 -0000`
+
+The `razer_hydra` package was released.
+
+Version of package(s) in repository `razer_hydra`:
+- rosdistro version: `0.0.10-0`
+- old version: `0.0.10-0`
+- new version: `0.0.11-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.26`
+
+
 ## razer_hydra - 0.0.10-0
 
 User `dgossow@lex` released the packages in the `razer_hydra` repository by running `/usr/bin/bloom-release --track groovy --ros-distro groovy razer_hydra` on `Wed, 21 Aug 2013 22:43:36 -0000`
