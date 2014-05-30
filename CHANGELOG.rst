@@ -2,24 +2,18 @@
 Changelog for package razer_hydra
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.1 (2014-05-29)
-------------------
-* setting hydro-devel to 0.1.x tags
-* update changelog
-* fix CMake formatting
+0.0.21 (2014-05-29)
+-------------------
+* setting groovy-devel tags to increment from 0.0.20
 * change ROS_INFO to ROS_DEBUG
   Conflicts:
   src/hydra.cpp
-* Merge commit 'fbced1dda9972f3c54ccee8c61dae6993285ed8b' into hydro-devel
-* fix license tag in package.xml
 * switching driver time to use WallTime to enable using the driver with sim time.
-* apply catkin_lint
+* prefix targets during build to not collide
+* Merge pull request #5 from cottsay/groovy-devel
+  Use "Public Domain" license for razer_hydra
 * Use "Public Domain" license for razer_hydra
-  Source files in the project state that the code is Public Domain
-* 0.0.12
-* fixed install target
-* udev filename -> hydro
-* Contributors: Adam Leeper, David Gossow, Kel Guerin, Scott K Logan, Tully Foote
+* Contributors: Adam Leeper, Kel Guerin, Scott K Logan, Tully Foote
 
 0.0.5 (2013-07-04)
 ------------------
