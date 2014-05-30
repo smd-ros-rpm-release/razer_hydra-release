@@ -1,0 +1,12 @@
+Source: ros-indigo-razer-hydra
+Section: misc
+Priority: extra
+Maintainer: Adam Leeper <adamleeper@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libusb-1.0-0-dev, pkg-config, ros-indigo-catkin, ros-indigo-genmsg, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-tf
+Homepage: http://www.ros.org/wiki/razer_hydra
+Standards-Version: 3.9.2
+
+Package: ros-indigo-razer-hydra
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-1.0-0-dev, pkg-config, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-tf
+Description: Unofficial driver and ROS node for Razer Hydra
