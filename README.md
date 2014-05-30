@@ -1,3 +1,22 @@
+## razer_hydra (groovy) - 0.0.21-0
+
+The packages in the `razer_hydra` repository were released into the `groovy` distro by running `/usr/bin/bloom-release razer_hydra -r groovy -t groovy -e` on `Fri, 30 May 2014 03:18:54 -0000`
+
+The `razer_hydra` package was released.
+
+Version of package(s) in repository `razer_hydra`:
+- rosdistro version: `0.0.11-0`
+- old version: `0.0.12-2`
+- new version: `0.0.21-0`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## razer_hydra (hydro) - 0.1.1-0
 
 The packages in the `razer_hydra` repository were released into the `hydro` distro by running `/usr/bin/bloom-release razer_hydra -t hydro -r hydro -e` on `Fri, 30 May 2014 03:15:31 -0000`
