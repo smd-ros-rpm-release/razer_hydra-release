@@ -59,6 +59,7 @@ cd build
 make %{?_smp_mflags} install DESTDIR=%{buildroot}
 
 %files
+%{_sysconfdir}/udev/rules.d/99-hydra-indigo.rules
 /opt/ros/indigo
 
 %changelog
